@@ -1,0 +1,6 @@
+name: KeoirDuel
+version: 1.0
+description: Duel Plugin from keoir for Isles.io Interview Project
+author: keoir
+main: com.keoir.duel.Main
+depend: []
